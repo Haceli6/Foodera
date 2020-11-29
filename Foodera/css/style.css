@@ -1,0 +1,167 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+li{
+    list-style: none;
+}
+header .navigation-menu .nav-logo{
+    float: left;
+}
+
+header .navigation-menu .menu{
+    float: right;
+}
+a{
+    text-decoration: none;
+    color: #a82d49;
+}
+
+.reqemm{
+    color:white;
+}
+.reqem{
+    box-sizing: border-box;
+    background-color: #A82C48;
+    border-radius: 5px;
+    height: 10px;
+    
+    
+}
+.navigation-menu{
+    width: 90%;
+    margin: auto;
+}
+header .navigation-menu .menu ul li{
+    float: left;
+    padding: 40px 20px 30px 25px;
+    font-size: large;
+} 
+header{
+    background-image: url(../image/3.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+}
+.head-text h3{
+    text-align: left;
+    padding-top: 250px;
+    font-size: 3.5rem;
+    color: #43121D;
+    display: flex;
+    padding left: 10px;
+}
+.head-text p{
+    box-sizing: border-box;
+    display: flex;
+    font-size: 16px;
+    font-weight: 400;
+    color: #555555;
+    padding: 0 0 13px;
+}
+
+.head-text .ao{
+    padding: 10px  50px;
+    margin-right: 10px;
+    background-color: #A82C48;
+    float: left;
+    margin: 0px 0px 0px 120px;
+    color: wheat;
+
+}
+
+.head-text .at{
+    padding: 10px  50px;
+    margin-right: 10px;
+    background-color: #dbdbdb;
+    float: left;
+    margin: 0px 10px;
+    color: rgb(0, 0, 0);
+}
+
+
+.stats2-info{
+    background-color: #A82D49;
+    width: 25%;
+    float: left;
+    height: 140px;
+    align-items: center;
+    padding: 50px;
+    margin: 40px 0px 10px 0px;
+    color: white;
+}
+
+.row p{
+    font-size: 40px;
+}
+
+.col-md-7 img{
+    background-image: url(../../Foodera/image/1.png);
+    height: 70vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    float: left;
+    margin: 80px 0px 80px 80px;
+    border-radius: 10px;
+}
+
+.col-md-5 h3{
+    font-size: 32px;
+    line-height: 45px;
+    color: #43121d;
+    font-weight: 700;
+    padding-top: 50vh;
+}
+
+.col-md-5 p{
+    font-size: 16px;
+    color: #555;
+    line-height: 28px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 0.5px;
+}
+
+.col-md-5 a{
+    padding: 10px  50px;
+    margin-right: 10px;
+    background-color: #A82C48;
+    float: left;
+    margin: 0px 0px 0px 120px;
+    color: wheat;
+
+}
+.imagem{
+    box-sizing: border-box;
+    float: right;
+    margin-left: 70rem;
+    width: 65%;
+    background-attachment: fixed;
+}
+.img-o{
+    width: 640px;
+    float: right;
+    margin-right: 8%;
+}
+
+.imagem  h3{
+    width: 50%;
+    font-size: 30px;
+    padding-right: 120px;
+    color: #43121D;
+}
+
+.foot h1.foodf{
+
+box-sizing: border-box;
+}
+
+.foot{
+    background-image: url(../../Foodera/image/11.jpg);
+    
+}
